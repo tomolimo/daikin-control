@@ -76,7 +76,7 @@ Uri                | GET | POST | desc
 /aircon/set_scdltimer | | X | Set information about on/off weekly timer
 /common/get_notify  | X | | ?
 /common/set_notify  | | X | ?
-/get_regioncode | X | | Provides the region code (ex: eu for Europe)
+/common/get_regioncode | X | | Provides the region code (ex: eu for Europe)
 /common/set_regioncode | | X | ?
 /common/set_led | | X | ?
 /common/reboot | X |  | reboot the AP
